@@ -1,0 +1,189 @@
+
+["MI ALLIANCE configuration"]
+	#Do Mi groups spawn?
+	"Do Mi Spawning?" = true
+	#
+	#Spawnrate of all Mi patrols are multiplied by this factor after applying other factors, such as difficulty.
+	#Range: 0.1 ~ 20.0
+	"Mi Spawn Rate" = 1.0
+	#
+	#Spawn size of all Mi patrols are multiplied by this factor after applying other factors, such as difficulty.
+	#Range: 0.2 ~ 10.0
+	"Mi Group Size" = 1.0
+	#
+	#How quickly Mi's become stronger in the early stages of a world. On Normal difficulty, this is at day 6, day 10 and day 20. The higher this factor, the longer it takes.
+	#Range: 0.1 ~ 10.0
+	"Mi Upgrade Time" = 1.0
+	#
+	#Chance for Mis to spawn as Chosen, which are exceptionally more powerful. Intended as an additional challenge. Normal chance is 1.5-2.5% for Alliance Mis, depending on world difficulty. Set to 0 to disable entirely.
+	#Range: 0.0 ~ 100.0
+	"Mi Chosen Factor" = 1.0
+	#
+	#Chance for Friendly Mis to spawn as Chosen, which are exceptionally more powerful. Rare and coveted. Normal chance is 1.0% for player Mis. Set to 0 to disable entirely.
+	#Range: 0.0 ~ 100.0
+	"Friendly Chosen Factor" = 1.0
+	#
+	#The growth of friendly Tubian Colonies is influenced by this factor. The higher, the faster.
+	#Range: 0.1 ~ 100.0
+	"Mi Tubian Growth" = 1.0
+	#
+	#The growth of Mi Colonies is influenced by this factor. The higher, the faster.
+	#Range: 0.1 ~ 100.0
+	"Mi Colony Growth" = 1.0
+	#
+	#The maximum size of Mi Colonies, friendly and hostile. 15 is regarded a balanced amount for a balanced playthrough. Most players prefer limitless Colonies. Colony size does not affect its ability to generate fighting forces.
+	#Range: 1 ~ 999
+	"Mi Maximum Cores" = 999
+	#
+	#The higher Leniency is, the more forgiving the Alliance will be for infractions.
+	#Range: 0.1 ~ 10.0
+	"Diplomacy Leniency" = 1.0
+	#
+	#The higher Charisma is, the more easily you will obtain additional Honor.
+	#Range: 0.1 ~ 10.0
+	"Diplomacy Charisma" = 1.0
+	#
+	#Spawn Mi group: Engineers?
+	"Spawn Engineers?" = true
+	#
+	#Spawn Mi group: Guardians?
+	"Spawn Guardians?" = true
+	#
+	#Spawn Mi group: Hunters?
+	"Spawn Hunters?" = true
+	#
+	#Spawn Mi group: Explorers?
+	"Spawn Explorers?" = true
+	#
+	#Spawn Mi group: Army?
+	"Spawn Army?" = true
+	#
+	#Spawn Mi group: Builders?
+	"Spawn Builders?" = true
+	#
+	#Spawn Mi group: Miners?
+	"Spawn Miners?" = true
+	#
+	#Spawn Mi group: Assassins?
+	"Spawn Assassins?" = true
+	#
+	#Spawn Mi group: Airstrike?
+	"Spawn Airstrike?" = true
+	"Spawn unit: Billoo?" = true
+	"Spawn unit: Carrymi?" = true
+	"Spawn unit: Submirine?" = true
+	"Spawn unit: Battlecruiser?" = true
+	"Spawn unit: Sniper?" = true
+	"Spawn unit: Commando?" = true
+	"Spawn unit: Trackers?" = true
+	"Spawn unit: Wizard?" = true
+	"Spawn unit: Incinerator?" = true
+	"Spawn unit: Tonk?" = true
+	"Spawn unit: Rider?" = true
+	"Spawn unit: Gunslinger?" = true
+	#
+	#How often should Tubian ghosts attempt to spawn?
+	#Range: 0.1 ~ 10.0
+	"Tubian Ghost Spawn Rate" = 1.0
+	#
+	#Should army Mi's be able to destroy blocks?
+	"Mi Fire Griefing?" = true
+	#
+	#Should Mi's be able to destroy blocks with explosions?
+	"Mi Griefing?" = true
+	#
+	#Should worlds automatically be in Phase Two? Warning: Extremely hard for Survival.
+	"Force Phase Two?" = false
+	#
+	#Allow Level 2 Beacons from spawning small patrols of Mi legionnaires?
+	"Allow Beacon patrols?" = true
+	#
+	#Allow special voicelines for Officers, which are intended to increase character depth?
+	"Allow special voicelines for Officers?" = true
+	#
+	#The Mis know...
+	"Do they know who you are, where you live?" = false
+	#
+	#Should Mi Leaders be able to call for surrender or retreat? Useful for map-makers!
+	"Mi Surrendering/retreating?" = true
+	#
+	#Should Mis have an advantage against Foreign targets? If Mis have no advantage, Colony Mis in dangerous dimensions will no longer provoke most mobs. (mobs that are not Mi, Player, or Tubian)
+	"Mi Foreign Advantage" = true
+	#
+	#Should Mis get an increase in hit points? Used in percentages. Warning: Disrupts intended balance of Mi Alliance. Can be negative.
+	#Range: 0.1 ~ 10.0
+	"Mi/Loon HP bonus" = 1.0
+	#
+	#
+	#Range: 0.1 ~ 10.0
+	"Officer HP bonus" = 1.0
+	#
+	#
+	#Range: 0.1 ~ 10.0
+	"Goob HP bonus" = 1.0
+	#
+	#
+	#Range: 0.1 ~ 10.0
+	"Commando/Tracker HP bonus" = 1.0
+	#
+	#
+	#Range: 0.1 ~ 10.0
+	"Warp Trooper HP bonus" = 1.0
+	#
+	#
+	#Range: 0.1 ~ 10.0
+	"Tonk/Turret/Corvette HP bonus" = 1.0
+	#
+	#
+	#Range: 0.1 ~ 10.0
+	"Billoo HP bonus" = 1.0
+	#
+	#
+	#Range: 0.1 ~ 10.0
+	"Miko HP bonus" = 1.0
+	#
+	#
+	#Range: 0.1 ~ 10.0
+	"Carrymi HP bonus" = 1.0
+	#
+	#
+	#Range: 0.1 ~ 10.0
+	"Submirine HP bonus" = 1.0
+	#
+	#
+	#Range: 0.1 ~ 10.0
+	"Ultragoob/Incinerator HP bonus" = 1.0
+	#
+	#
+	#Range: 0.1 ~ 10.0
+	"Relicoid HP bonus" = 1.0
+	#
+	#Allows all Mis to deal more damage against everything. Applies to almost all attacks.
+	#Range: 0.2 ~ 10.0
+	"Mi Attack Bonus Factor" = 1.0
+	#
+	#Used against most hostile mobs if Foreign Advantage is true. Applies to almost all attacks.
+	#Range: 0.2 ~ 10.0
+	"Mi Outsider Attack Bonus Factor " = 1.0
+	#
+	#Which dimensions should Alliance Mis not naturally spawn in? Format: ["minecraft:the_nether","modname:dimensionname"]
+	"Mi Dimension Blacklist:" = []
+	#
+	#Which dimensions should Alliance Mis naturally spawn in? Format: ["minecraft:the_nether","modname:dimensionname"]
+	"Mi Dimension Whitelist:" = []
+	#
+	#Which mobs should Alliance Mis attack on sight? Format: ["entity.minecraft.glow_squid","entity.modname.creature"]
+	"Mi Attack List:" = []
+	#
+	#Which mobs should Alliance Mis never attack?
+	"Mi Peace List:" = []
+	#
+	#Which mobs should friendly Mis attack on sight?
+	"Friendly Mi Attack List:" = []
+	#
+	#Which mobs should friendly Mis never attack?
+	"Friendly Mi Peace List:" = []
+	#
+	#Which blocks should all Mis terraform when walking on them? Useful against hostile environments added by mods! Format: ["Grass Block","Cobblestone"]
+	"Mi Terraform List:" = []
+
