@@ -5,6 +5,11 @@
       {
         "id": "1.1.7",
         "releasedAt": 1732202483000,
+        "promotions": {
+            "downloads": {
+                "generic": "https://github.com/Gameking1happy/GK1H-Server-Mi-Alliance-Pack/releases/tag/1.1.7"
+            }
+        }
         "updateType": "minor"
     }
     ]
