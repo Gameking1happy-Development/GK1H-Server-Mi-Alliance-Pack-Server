@@ -1,0 +1,1 @@
+Minor change involving config files. Server will not be updated to this version, but server will not go up until next full release is made anyway.
