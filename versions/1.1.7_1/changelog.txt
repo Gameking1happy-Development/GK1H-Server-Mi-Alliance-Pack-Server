@@ -1,4 +1,4 @@
 # Alpha/Pre-Release
 Minor change involving config files. Server will not be updated to this version, but server will not go up until next full release is made anyway.
-# Full Release
+# Beta
 Added to CurseForge and Modrinth, (Modrinth is private however.) put both config and mods files in a .zip, and added links to the CurseForge and Modrinth (since Modrinth is private it won't work) projects to the in-game changelog buttons. These changes did not actually change any of the config or mods files, and did not change the Modrinth profiles, and are all only changes to the GitHub repos, and additions of projects on CurseForge and Modrinth.
