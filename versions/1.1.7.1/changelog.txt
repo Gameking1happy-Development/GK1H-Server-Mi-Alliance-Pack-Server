@@ -1,0 +1,1 @@
+Minor change involving config files. Added to CurseForge and Modrinth, (Modrinth is private however.) put both config and mods files in a .zip, and added links to the CurseForge and Modrinth (since Modrinth is private it won't work) projects to the in-game changelog buttons. There could be other minor changes, including read.md changes on GitHub.
