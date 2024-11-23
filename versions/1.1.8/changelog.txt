@@ -1,0 +1,26 @@
+Moved GitHub repos to organization.
+
+Made mod list for client and server modpacks.
+
+Possibly some more minor changes.
+
+For authors of added mods, check "Mod List.md".
+# Mod Additions
+## Added to client and server:
+EMI
+
+Clumps
+
+Polymorph
+
+AppleSkin
+## Added to client only:
+Not Enough Animations
+
+Dynamic Crosshair
+
+Chat Heads
+
+Longer Chat History
+
+Model Gap Fix
