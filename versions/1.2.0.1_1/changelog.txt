@@ -1,0 +1,57 @@
+# Mod Additions
+## Added to client and server:
+Craftable Horse Armour & Saddle [CHA&S]
+
+Advanced Netherite
+
+Anvil Never Too Expensive
+
+Brutes Drop Scraps (**IS A DATAPACK!**)
+
+Caelus API
+
+Chain Armor Recipe (**IS A DATAPACK!**)
+
+Collective
+
+Craftable Notch Apple (**IS A DATAPACK!**)
+
+Craftable Totem of Undying (**IS A DATAPACK!**)
+
+Craftable Trident - The Craftables Series
+
+Create: Molten Vents
+
+Curios API
+
+Customizable Elytra
+
+Diamond Nuggets
+
+Dragon Drops Elytra
+
+EMI Loot
+
+EMI Ores
+
+Elytra Slot
+
+Enderdragon Skull
+
+Name Tag Tweaks
+
+Netherracked (**IS A DATAPACK!**)
+
+Renewable Blackstone (**IS A DATAPACK!**)
+
+Village Bell Recipe
+
+bad packets
+## Added to client only:
+Bookshelf
+
+EMI Enchants
+
+EMI: Create Schematics
+
+Enchantment Descriptions
