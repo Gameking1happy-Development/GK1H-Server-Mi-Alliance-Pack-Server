@@ -1,3 +1,4 @@
+Made changes to default options.
 # Mod Additions
 ## Added to client and server:
 Craftable Horse Armour & Saddle [CHA&S]
