@@ -42,9 +42,9 @@
             "updateType": "incompatible",
             "promotions": {
                 "downloads": {
-                    "modrinth": "https://modrinth.com/modpack/gk1h-server-mi-alliance-pack-server/version/1.2.0.1/",
+                    "modrinth": "https://modrinth.com/modpack/gk1h-server-mi-alliance-pack-server/version/1.2.0.1_1/",
                     "curseforge": "https://curseforge.com/minecraft/modpacks/gk1h-server-mi-alliance-pack-server/files/FILE/",
-                    "generic": "https://github.com/Gameking1happy-Development/GK1H-Server-Mi-Alliance-Pack/releases/tag/1.2.0.1/"
+                    "generic": "https://github.com/Gameking1happy-Development/GK1H-Server-Mi-Alliance-Pack/releases/tag/1.2.0.1_1/"
                 }
             }
         }
