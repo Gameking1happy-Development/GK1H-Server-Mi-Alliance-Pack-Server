@@ -1,0 +1,61 @@
+
+# The Renewability & QOL Update Alpha (1.2.0.)3_1
+## File changes
+### Added to Client and Server
+Open Parties and Claims
+
+Easy Shulker Boxes
+
+Easy Anvils
+
+Easy Magic
+
+Distinguished Potions
+
+Visual Workbench
+
+Paper Doll
+
+Armor Statues
+
+Accurate Block Placement Reforged
+
+AttributeFix
+
+Leaves Be Gone
+
+SwingThroughGrass
+
+Stoneworks
+
+Better Tridents
+
+Easy Netherite Bar
+### Removed from Client and Server
+Craftable Trident - The Craftables Series
+### Added to Client Only
+Remote Player Waypoints for Xaero's Map
+
+Held Item Tooltips
+
+Just Enough Effect Descriptions (JEED)
+
+Overflowing Bars
+
+Pick Up Notifier
+
+Leave My Bars Alone
+### Added to Server Only
+Xaero's Minimap (Added to client in previous version, still on client.)
+
+Xaero's World Map (Added to client in previous version, still on client.)
+### Other File Changes
+Updated Forge loader version to 43.4.6. (Modrinth and CurseForge modpacks only, not possible with just config and mod files.)
+
+Some mods had updates, and were updated.
+## Other Changes
+Updates can now have names
+
+Now the main server will only use release versions, and there will be both beta and alpha servers.
+
+Alpha versions will now be pushed to main, before they were removed before push to main.
