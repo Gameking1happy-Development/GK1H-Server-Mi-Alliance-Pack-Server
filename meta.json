@@ -86,12 +86,12 @@
         },
         {
             "id": "1.2.0.3",
-            "releasedAt": 987654321098765,
+            "releasedAt": 1733352100000,
             "updateType": "minor",
             "promotions": {
                 "downloads": {
                     "modrinth": "https://modrinth.com/modpack/gk1h-server-mi-alliance-pack-server/version/1.2.0.3/",
-                    "curseforge": "https://curseforge.com/minecraft/modpacks/gk1h-server-mi-alliance-pack-server/files/TBA/",
+                    "curseforge": "https://curseforge.com/minecraft/modpacks/gk1h-server-mi-alliance-pack-server/files/5963432/",
                     "generic": "https://github.com/Gameking1happy-Development/GK1H-Server-Mi-Alliance-Pack/releases/tag/1.2.0.3/"
                 }
             }
