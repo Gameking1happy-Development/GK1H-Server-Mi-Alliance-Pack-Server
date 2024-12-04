@@ -1,4 +1,3 @@
-
 # The Renewability & QOL Update Alpha (1.2.0.)3_1
 ## File changes
 ### Added to Client and Server
