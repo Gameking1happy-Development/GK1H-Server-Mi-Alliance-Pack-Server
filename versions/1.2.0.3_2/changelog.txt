@@ -1,0 +1,12 @@
+# The Renewability & QOL Update Alpha (1.2.0.)3_2
+## File changes
+### Added to Server Only
+Dynmap®
+### Other File Changes
+Set up Remote Player Waypoints for Xaero's Map for main, beta, and alpha servers.
+
+Added to default options beta and alpha servers.
+
+There are some other minor file changes not listed.
+## Other Changes
+Set up Dynmap® on main, beta, and alpha servers.
